@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>File Organizer Web</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>🗂️ File Organizer</h1>
+    <form method="POST">
+      <label for="folder_path">Enter Folder Path:</label><br>
+      <input type="text" id="folder_path" name="folder_path" placeholder="e.g. C:\Users\HP\Downloads" required>
+      <button type="submit">Organize</button>
+    </form>
+
+    {% if messages %}
+      <div class="output">
+        <h3>Results:</h3>
+        <ul>
+          {% for msg in messages %}
+            <li>{{ msg }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
+</body>
+</html>

@@ -1,0 +1,174 @@
+2025-11-03 19:58:15,235 - INFO -  * Restarting with stat
+2025-11-03 19:58:16,038 - WARNING -  * Debugger is active!
+2025-11-03 19:58:16,046 - INFO -  * Debugger PIN: 246-019-475
+2025-11-03 19:58:16,117 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 19:58:48,556 - INFO - 127.0.0.1 - - [03/Nov/2025 19:58:48] "GET / HTTP/1.1" 200 -
+2025-11-03 19:58:48,905 - INFO - 127.0.0.1 - - [03/Nov/2025 19:58:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-11-03 19:58:49,003 - INFO - 127.0.0.1 - - [03/Nov/2025 19:58:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-03 19:59:13,370 - INFO - Moved: file_organizer_web.zip \u2192 Archives
+2025-11-03 19:59:13,373 - INFO - 127.0.0.1 - - [03/Nov/2025 19:59:13] "POST / HTTP/1.1" 200 -
+2025-11-03 19:59:13,414 - INFO - 127.0.0.1 - - [03/Nov/2025 19:59:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 19:59:37,924 - INFO - Moved: 1-4 updated.pdf \u2192 Documents
+2025-11-03 19:59:37,933 - INFO - Moved: 12 markshit.jpg \u2192 Images
+2025-11-03 19:59:37,939 - INFO - Moved: 1st page final.pdf \u2192 Documents
+2025-11-03 19:59:37,948 - INFO - Moved: 1to5.docx \u2192 Documents
+2025-11-03 19:59:37,952 - INFO - Moved: 8 sem.pdf \u2192 Documents
+2025-11-03 19:59:37,957 - INFO - Moved: Adobe Acrobat.lnk \u2192 Others
+2025-11-03 19:59:37,966 - INFO - Moved: AP TCS RESUME.pdf \u2192 Documents
+2025-11-03 19:59:37,970 - INFO - Moved: AtharvaPharakte.pdf resume.pdf \u2192 Documents
+2025-11-03 19:59:37,973 - INFO - Moved: cd report.pdf \u2192 Documents
+2025-11-03 19:59:37,981 - INFO - Moved: CYBER ISE 2 PPT.pptx \u2192 Documents
+2025-11-03 19:59:37,985 - INFO - Moved: cyber unit 6.pdf \u2192 Documents
+2025-11-03 19:59:37,988 - INFO - Moved: data.csv \u2192 Others
+2025-11-03 19:59:37,994 - INFO - Moved: description 1.png \u2192 Images
+2025-11-03 19:59:37,998 - INFO - Moved: description 2.png \u2192 Images
+2025-11-03 19:59:38,003 - INFO - Moved: description 3.jpg \u2192 Images
+2025-11-03 19:59:38,007 - INFO - Moved: description 4.jpg \u2192 Images
+2025-11-03 19:59:38,013 - INFO - Moved: DT20245790016_Application TCS.pdf \u2192 Documents
+2025-11-03 19:59:38,018 - INFO - Moved: Final Project Reoprt Index remorox.docx \u2192 Documents
+2025-11-03 19:59:38,021 - INFO - Moved: Final Project Reoprt Index[1].pdf \u2192 Documents
+2025-11-03 19:59:38,025 - INFO - Moved: final report mega.pdf \u2192 Documents
+2025-11-03 19:59:38,029 - INFO - Moved: finall syn.pdf \u2192 Documents
+2025-11-03 19:59:38,034 - INFO - Moved: gen ai \u2192 Others
+2025-11-03 19:59:38,038 - INFO - Moved: hcl form.pdf \u2192 Documents
+2025-11-03 19:59:38,042 - INFO - Moved: how a java code is running.txt \u2192 Documents
+2025-11-03 19:59:38,047 - INFO - Moved: id card .pdf \u2192 Documents
+2025-11-03 19:59:38,050 - INFO - Moved: id.pdf \u2192 Documents
+2025-11-03 19:59:38,054 - INFO - Moved: img.jpg \u2192 Images
+2025-11-03 19:59:38,059 - INFO - Moved: INTERNAL_PRESENTATION1[1].pptx \u2192 Documents
+2025-11-03 19:59:38,064 - INFO - Moved: javabasic.java \u2192 Scripts
+2025-11-03 19:59:38,068 - INFO - Moved: jay wt.docx \u2192 Documents
+2025-11-03 19:59:38,072 - INFO - Moved: LayOut 2022.lnk \u2192 Others
+2025-11-03 19:59:38,076 - INFO - Moved: letter to pricipal.pdf \u2192 Documents
+2025-11-03 19:59:38,081 - INFO - Moved: licence.jpg \u2192 Images
+2025-11-03 19:59:38,085 - INFO - Moved: light-blue-lines-technology-linkedin-260nw-2358315473.webp \u2192 Others
+2025-11-03 19:59:38,089 - INFO - Moved: m.mp4 \u2192 Videos
+2025-11-03 19:59:38,095 - INFO - Moved: marks.jpg \u2192 Images
+2025-11-03 19:59:38,099 - INFO - Moved: mega project f.pdf \u2192 Documents
+2025-11-03 19:59:38,103 - INFO - Moved: mega project final report.pdf \u2192 Documents
+2025-11-03 19:59:38,114 - INFO - Moved: Miniproject_Report_for_Assignment_16_-WTL[1].docx \u2192 Documents
+2025-11-03 19:59:38,119 - INFO - Moved: nk.pdf \u2192 Documents
+2025-11-03 19:59:38,124 - INFO - Moved: principle.pdf \u2192 Documents
+2025-11-03 19:59:38,133 - INFO - Moved: project 2 final report REMOROX.docx \u2192 Documents
+2025-11-03 19:59:38,146 - INFO - Moved: Project Main Pages.docx \u2192 Documents
+2025-11-03 19:59:38,157 - INFO - Moved: register.html \u2192 Scripts
+2025-11-03 19:59:38,163 - INFO - Moved: remo research.pdf \u2192 Documents
+2025-11-03 19:59:38,167 - INFO - Moved: REMO.png \u2192 Images
+2025-11-03 19:59:38,170 - INFO - Moved: REMO1.png \u2192 Images
+2025-11-03 19:59:38,176 - INFO - Moved: REMOROX RESEARCH.pdf \u2192 Documents
+2025-11-03 19:59:38,181 - INFO - Moved: REPORT THEEE TTL.docx \u2192 Documents
+2025-11-03 19:59:38,184 - INFO - Moved: report.pdf \u2192 Documents
+2025-11-03 19:59:38,187 - INFO - Moved: research demo.pdf \u2192 Documents
+2025-11-03 19:59:38,191 - INFO - Moved: resume.pdf \u2192 Documents
+2025-11-03 19:59:38,195 - INFO - Moved: schedulo final.pdf \u2192 Documents
+2025-11-03 19:59:38,198 - INFO - Moved: SEM 6 PROJECT REPORT FINAL.pdf \u2192 Documents
+2025-11-03 19:59:38,202 - INFO - Moved: sign.jpg \u2192 Images
+2025-11-03 19:59:38,206 - INFO - Moved: SketchUp Pro 2022.lnk \u2192 Others
+2025-11-03 19:59:38,210 - INFO - Moved: sma 6.pdf \u2192 Documents
+2025-11-03 19:59:38,214 - INFO - Moved: SMA.pdf \u2192 Documents
+2025-11-03 19:59:38,219 - INFO - Moved: software-engineering-iterative-model.png \u2192 Images
+2025-11-03 19:59:38,223 - INFO - Moved: srcApp.js.txt \u2192 Documents
+2025-11-03 19:59:38,228 - INFO - Moved: ss1.jpg \u2192 Images
+2025-11-03 19:59:38,231 - INFO - Moved: ss2.jpg \u2192 Images
+2025-11-03 19:59:38,234 - INFO - Moved: Style Builder.lnk \u2192 Others
+2025-11-03 19:59:38,238 - INFO - Moved: sys diagram.png \u2192 Images
+2025-11-03 19:59:38,244 - INFO - Moved: ttl main report.pdf \u2192 Documents
+2025-11-03 19:59:38,248 - INFO - Moved: virtual internship.txt \u2192 Documents
+2025-11-03 19:59:38,252 - INFO - Moved: w.jpg \u2192 Images
+2025-11-03 19:59:38,257 - INFO - Moved: website-hosting-concept-with-bright-light.1600x0.webp \u2192 Others
+2025-11-03 19:59:38,262 - INFO - Moved: WhatsApp Image 2024-04-30 at 09.49.14_4315a81f.jpg \u2192 Images
+2025-11-03 19:59:38,267 - INFO - Moved: WhatsApp Image 2024-12-02 at 15.07.02_cc52b77f.jpg \u2192 Images
+2025-11-03 19:59:38,271 - INFO - Moved: WhatsApp Image 2024-12-30 at 12.40.25_30b947a4.jpg \u2192 Images
+2025-11-03 19:59:38,273 - INFO - 127.0.0.1 - - [03/Nov/2025 19:59:38] "POST / HTTP/1.1" 200 -
+2025-11-03 19:59:38,300 - INFO - 127.0.0.1 - - [03/Nov/2025 19:59:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:00:18,018 - INFO -  * Restarting with stat
+2025-11-03 20:00:18,878 - WARNING -  * Debugger is active!
+2025-11-03 20:00:18,885 - INFO -  * Debugger PIN: 246-019-475
+2025-11-03 20:00:18,935 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 20:04:40,284 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\file_organizer_web\\app.py', reloading
+2025-11-03 20:04:40,450 - INFO -  * Restarting with stat
+2025-11-03 20:04:58,666 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 20:04:58,994 - INFO - 127.0.0.1 - - [03/Nov/2025 20:04:58] "GET / HTTP/1.1" 200 -
+2025-11-03 20:04:59,192 - INFO - 127.0.0.1 - - [03/Nov/2025 20:04:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:05:15,252 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 20:05:15,523 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:15] "GET / HTTP/1.1" 200 -
+2025-11-03 20:05:15,753 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:05:25,146 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:25] "POST / HTTP/1.1" 200 -
+2025-11-03 20:05:25,175 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:05:27,879 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:27] "POST / HTTP/1.1" 200 -
+2025-11-03 20:05:27,911 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:05:30,220 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:30] "POST / HTTP/1.1" 200 -
+2025-11-03 20:05:30,249 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:05:32,678 - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 856, in move
+    os.rename(src, real_dst)
+    ~~~~~~~~~^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\OneDrive\\Desktop\\file_organizer_web.zip' -> 'C:\\Users\\HP\\OneDrive\\Desktop\\Archives\\file_organizer_web.zip'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\flask\app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "c:\Users\HP\OneDrive\Desktop\file_organizer_web\app.py", line 13, in index
+    messages = organize_files(folder_path.strip('"'))
+  File "c:\Users\HP\OneDrive\Desktop\file_organizer_web\file_organizer.py", line 38, in organize_files
+    shutil.move(item_path, os.path.join(category_path, item))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 876, in move
+    copy_function(src, real_dst)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process
+2025-11-03 20:05:32,751 - INFO - 127.0.0.1 - - [03/Nov/2025 20:05:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-11-03 20:06:12,553 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 20:06:12,813 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:12] "GET / HTTP/1.1" 200 -
+2025-11-03 20:06:13,064 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:06:38,455 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:38] "GET / HTTP/1.1" 200 -
+2025-11-03 20:06:38,569 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:06:41,449 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:41] "POST / HTTP/1.1" 200 -
+2025-11-03 20:06:41,488 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:06:46,040 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:46] "POST / HTTP/1.1" 200 -
+2025-11-03 20:06:46,071 - INFO - 127.0.0.1 - - [03/Nov/2025 20:06:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:07:37,315 - INFO - 127.0.0.1 - - [03/Nov/2025 20:07:37] "GET / HTTP/1.1" 200 -
+2025-11-03 20:07:37,450 - INFO - 127.0.0.1 - - [03/Nov/2025 20:07:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:07:40,767 - INFO - Moved: 1ST PAGE.docx \u2192 Documents
+2025-11-03 20:07:40,774 - INFO - Moved: Application Form.pdf \u2192 Documents
+2025-11-03 20:07:40,783 - INFO - Moved: architecture digram.drawio \u2192 Others
+2025-11-03 20:07:40,787 - INFO - Moved: demo.js \u2192 Scripts
+2025-11-03 20:07:40,791 - INFO - Moved: desktop.ini \u2192 Others
+2025-11-03 20:07:40,795 - INFO - Moved: First and Last[1].docx \u2192 Documents
+2025-11-03 20:07:40,799 - INFO - Moved: JRF \u0938\u0947 SRF shivani.pdf \u2192 Documents
+2025-11-03 20:07:40,804 - INFO - Moved: main 1-5 mega project.docx \u2192 Documents
+2025-11-03 20:07:40,809 - INFO - Moved: MEGA_PROJECT_SYNOPSIS_1[1].docx \u2192 Documents
+2025-11-03 20:07:40,812 - INFO - Moved: MSE_Template[1].pptx \u2192 Documents
+2025-11-03 20:07:40,817 - INFO - Moved: parthnigga.cpp \u2192 Scripts
+2025-11-03 20:07:40,822 - INFO - Moved: photo.pdf \u2192 Documents
+2025-11-03 20:07:40,828 - INFO - Moved: ppt modified.pptx \u2192 Documents
+2025-11-03 20:07:40,833 - INFO - Moved: REPORT THEEE TTL.docx \u2192 Documents
+2025-11-03 20:07:40,838 - INFO - Moved: smart_trolley_system_arduino.ino \u2192 Others
+2025-11-03 20:07:40,844 - INFO - Moved: social media.pbix \u2192 Others
+2025-11-03 20:07:40,848 - INFO - Moved: ui 4-6.pdf \u2192 Documents
+2025-11-03 20:07:40,849 - INFO - 127.0.0.1 - - [03/Nov/2025 20:07:40] "POST / HTTP/1.1" 200 -
+2025-11-03 20:07:40,883 - INFO - 127.0.0.1 - - [03/Nov/2025 20:07:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:26:27,120 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-03 20:26:27,384 - INFO - 127.0.0.1 - - [03/Nov/2025 20:26:27] "GET / HTTP/1.1" 200 -
+2025-11-03 20:26:27,572 - INFO - 127.0.0.1 - - [03/Nov/2025 20:26:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-11-03 20:29:20,449 - INFO - 127.0.0.1 - - [03/Nov/2025 20:29:20] "GET / HTTP/1.1" 200 -
+2025-11-03 20:29:20,483 - INFO - 127.0.0.1 - - [03/Nov/2025 20:29:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-29 12:43:11,246 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-29 12:43:11,248 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-29 12:43:12,591 - INFO - 127.0.0.1 - - [29/Dec/2025 12:43:12] "GET / HTTP/1.1" 200 -
+2025-12-29 12:43:12,916 - INFO - 127.0.0.1 - - [29/Dec/2025 12:43:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-12-29 12:43:12,980 - INFO - 127.0.0.1 - - [29/Dec/2025 12:43:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
