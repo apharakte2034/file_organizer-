@@ -7,7 +7,8 @@ This Flask-based web application allows users to organize files in any folder th
 - Web-based interface to input a folder path
 - Organizes files into categories (Documents, Images, Videos, etc.)
 - Displays operation results instantly on the page
-
+- Automatic categorization
+  
 ## 🚀 How to Run
 1. Navigate to the project directory:
    ```bash
@@ -33,6 +34,8 @@ This Flask-based web application allows users to organize files in any folder th
 
 ## 🧰 Requirements
 - Python 3.7+
+- HTML
+- CSS
 - Flask library (`pip install flask`)
 
 ## 🧑‍💻 Author
